@@ -12,6 +12,9 @@ class RutasPaginas extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "App entre paginas",
+      theme: ThemeData(
+        primarySwatch: Colors.pink,
+      ),
       initialRoute: "/",
       routes: {
         "/": (context) => Pantalla1(),
