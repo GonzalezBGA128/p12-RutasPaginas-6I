@@ -21,10 +21,15 @@ samples, guidance on mobile development, and a full API reference.
 - ## p12 Rutas Entre Paginas: FlutLab - Flutter Online IDE
 
 - link de referencia: https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+- link 2: https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 - Grecia Gonzalez: a.21308051280363@cbtis128.edu.mx
 
 - ## Resultado de aplicacion en flutter
 - ![image](https://github.com/GonzalezBGA128/p12-RutasPaginas-6I/assets/144726562/5b06898c-5124-4309-8639-7953d257a798)
 - ![image](https://github.com/GonzalezBGA128/p12-RutasPaginas-6I/assets/144726562/02840caa-dfee-4cdb-aea6-e6583670f877)
+- ![image](https://github.com/GonzalezBGA128/p12-RutasPaginas-6I/assets/144726562/5564ade4-bfd0-413a-b50d-04b189a925af)
+- ![image](https://github.com/GonzalezBGA128/p12-RutasPaginas-6I/assets/144726562/b35e6601-0e60-44f0-bfc7-ae1afec87cf6)
+
+
 
 
